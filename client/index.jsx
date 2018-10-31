@@ -16,6 +16,8 @@
         //----------------------------------------------------------------------------------------------------------
         
         import get_started from './components/get started.jsx'
+import get_started from './components/get started.jsx'
+import get_started from './components/get started.jsx'
        
         //----------------------------------------------------------------------------------------------------------
         //Reducer
@@ -38,6 +40,8 @@
                     <Switch>
                         <Route path "/" component={get_started}
                         <Route path="/get_started" component={get_started} /> 
+,<Route path="/get_started" component={get_started} /> 
+,<Route path="/get_started" component={get_started} /> 
 
                     </Switch>
                 </Router>
