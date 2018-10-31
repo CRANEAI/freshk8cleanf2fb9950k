@@ -1,0 +1,6 @@
+
+        rootProject.name = 'fresh_k8_clean'
+
+        include ':app'
+        /* add slim_filename application modules here */
+        
